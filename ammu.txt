@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 ammu
 manya
 nimitha
 rekha
 pooja
+
+new data added
